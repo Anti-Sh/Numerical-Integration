@@ -1,0 +1,15 @@
+W:\Program Storage\Integral\Otladka\bin\Debug\net6.0\Otladka.exe
+W:\Program Storage\Integral\Otladka\bin\Debug\net6.0\Otladka.deps.json
+W:\Program Storage\Integral\Otladka\bin\Debug\net6.0\Otladka.runtimeconfig.json
+W:\Program Storage\Integral\Otladka\bin\Debug\net6.0\Otladka.dll
+W:\Program Storage\Integral\Otladka\bin\Debug\net6.0\ref\Otladka.dll
+W:\Program Storage\Integral\Otladka\bin\Debug\net6.0\Otladka.pdb
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\Otladka.csproj.AssemblyReference.cache
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\Otladka.GeneratedMSBuildEditorConfig.editorconfig
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\Otladka.AssemblyInfoInputs.cache
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\Otladka.AssemblyInfo.cs
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\Otladka.csproj.CoreCompileInputs.cache
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\Otladka.dll
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\ref\Otladka.dll
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\Otladka.pdb
+W:\Program Storage\Integral\Otladka\obj\Debug\net6.0\Otladka.genruntimeconfig.cache

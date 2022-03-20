@@ -1,0 +1,11 @@
+W:\Program Storage\Integral\Integral3\bin\Debug\Integral3.exe.config
+W:\Program Storage\Integral\Integral3\bin\Debug\Integral3.exe
+W:\Program Storage\Integral\Integral3\bin\Debug\Integral3.pdb
+W:\Program Storage\Integral\Integral3\obj\Debug\Integral3.csproj.AssemblyReference.cache
+W:\Program Storage\Integral\Integral3\obj\Debug\Integral3.csproj.SuggestedBindingRedirects.cache
+W:\Program Storage\Integral\Integral3\obj\Debug\Integral3.Form1.resources
+W:\Program Storage\Integral\Integral3\obj\Debug\Integral3.Properties.Resources.resources
+W:\Program Storage\Integral\Integral3\obj\Debug\Integral3.csproj.GenerateResource.cache
+W:\Program Storage\Integral\Integral3\obj\Debug\Integral3.csproj.CoreCompileInputs.cache
+W:\Program Storage\Integral\Integral3\obj\Debug\Integral3.exe
+W:\Program Storage\Integral\Integral3\obj\Debug\Integral3.pdb

@@ -1,0 +1,11 @@
+W:\Program Storage\Integral\Integral\bin\Debug\Integral.exe.config
+W:\Program Storage\Integral\Integral\bin\Debug\Integral.exe
+W:\Program Storage\Integral\Integral\bin\Debug\Integral.pdb
+W:\Program Storage\Integral\Integral\obj\Debug\QuadratureForms.csproj.AssemblyReference.cache
+W:\Program Storage\Integral\Integral\obj\Debug\QuadratureForms.csproj.SuggestedBindingRedirects.cache
+W:\Program Storage\Integral\Integral\obj\Debug\Integral.Form1.resources
+W:\Program Storage\Integral\Integral\obj\Debug\Integral.Properties.Resources.resources
+W:\Program Storage\Integral\Integral\obj\Debug\QuadratureForms.csproj.GenerateResource.cache
+W:\Program Storage\Integral\Integral\obj\Debug\QuadratureForms.csproj.CoreCompileInputs.cache
+W:\Program Storage\Integral\Integral\obj\Debug\Integral.exe
+W:\Program Storage\Integral\Integral\obj\Debug\Integral.pdb
